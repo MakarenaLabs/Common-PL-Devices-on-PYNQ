@@ -20,3 +20,8 @@ set_property -dict {PACKAGE_PIN T10 IOSTANDARD LVCMOS33} [get_ports spi_ss_io]
 The block design is shown in the following image
 
 ![SPI block design](block_design.png)
+
+
+Special thanks to gpcus (Guido) from pynq.io forum for python code
+https://discuss.pynq.io/u/gpcus
+https://discuss.pynq.io/t/axi-spi-python-code/250
