@@ -23,5 +23,7 @@ The block design is shown in the following image
 
 
 Special thanks to gpcus (Guido) from pynq.io forum for python code
+
 https://discuss.pynq.io/u/gpcus
+
 https://discuss.pynq.io/t/axi-spi-python-code/250
