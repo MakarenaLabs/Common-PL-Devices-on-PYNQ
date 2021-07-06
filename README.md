@@ -1,4 +1,4 @@
-# Communication protocols in PL on PYNQ Z2
+# Hardware Devices in PL on PYNQ Z2
 
 In this repo we provide some tutorials to build in PL on PYNQ Z2 board some devices. Specifically we have built 4 devices:
  - General Purpose I/O (GPIO);
