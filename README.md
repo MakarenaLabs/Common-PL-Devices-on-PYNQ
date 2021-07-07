@@ -1,5 +1,7 @@
 # Hardware Devices in PL on PYNQ Z2
 
+[MakarenaLabs s.r.l.](http://makarenalabs.com)
+
 In this repo we provide some tutorials to build in PL on PYNQ Z2 board some devices and communication protocol IP. Specifically we have integrated 4 IPs:
  - General Purpose I/O (GPIO);
  - Inter-Integrated Circuit (I2C);
